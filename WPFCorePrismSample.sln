@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28822.285
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFCorePrismSample", "WPFCorePrismSample\WPFCorePrismSample.csproj", "{69EF5960-6312-40EB-A52A-453645B584F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69EF5960-6312-40EB-A52A-453645B584F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69EF5960-6312-40EB-A52A-453645B584F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69EF5960-6312-40EB-A52A-453645B584F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69EF5960-6312-40EB-A52A-453645B584F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4A8AC30-3B11-4E69-84A0-69B8EA9852ED}
+	EndGlobalSection
+EndGlobal
