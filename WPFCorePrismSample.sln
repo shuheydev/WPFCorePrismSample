@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28822.285
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFCorePrismSample", "WPFCorePrismSample\WPFCorePrismSample.csproj", "{69EF5960-6312-40EB-A52A-453645B584F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFCorePrismSampleDesigner", "WPFCorePrismSampleDesigner\WPFCorePrismSampleDesigner.csproj", "{B2A5B33E-3B91-4ADE-B716-AD1414C606BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{69EF5960-6312-40EB-A52A-453645B584F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69EF5960-6312-40EB-A52A-453645B584F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69EF5960-6312-40EB-A52A-453645B584F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A5B33E-3B91-4ADE-B716-AD1414C606BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A5B33E-3B91-4ADE-B716-AD1414C606BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A5B33E-3B91-4ADE-B716-AD1414C606BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A5B33E-3B91-4ADE-B716-AD1414C606BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
